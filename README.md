@@ -1,17 +1,18 @@
-Hola soy Alexander Full Stack Developer.
-
-Siempre me llamo la atencion el desarrollo, laborando en el mundo IT como Analista de Soporte encontre gusto por la programacion y bueno decidi apostar por este camino y aquí estoy ya graduado del Bootcamp Henry, con ganas de encontrar mi primer labor en este rubro, graduado también como Tecnólogo en Administración de Redes de Computadores, soy una persona con capacidad de Adaptabilidad, buenas Relaciones Interpersonales, Responsabilidad, con conocimientos en Tecnologías que me han permitido adquirir experiencia en el desarrollo y en este camino proporcionándome el mejorar mis habilidades de Autodidacta, Colaboración, Trabajo en equipo e Individual, creando en mi esa curiosidad por aprender en cada paso.
-
-📢 Puedes contactarme:
-Email: alexballen53@gmail.com
-Linkedin: https://www.linkedin.com/in/alexander-ballen-35a974253/
-
 <h1 align="center">Hola soy Alexander</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">Siempre me llamo la atencion el desarrollo, laborando en el mundo IT como Analista de Soporte encontre gusto por la programacion y bueno decidi apostar por este camino y aquí estoy ya graduado del Bootcamp Henry, con ganas de encontrar mi primer labor en este rubro, graduado también como Tecnólogo en Administración de Redes de Computadores, soy una persona con capacidad de Adaptabilidad, buenas Relaciones Interpersonales, Responsabilidad, con conocimientos en Tecnologías que me han permitido adquirir experiencia en el desarrollo y en este camino proporcionándome el mejorar mis habilidades de Autodidacta, Colaboración, Trabajo en equipo e Individual, creando en mi esa curiosidad por aprender en cada paso. </p>
+
+<h3 align="left">
+Email: alexballen53@gmail.com
+Linkedin: https://www.linkedin.com/in/alexander-ballen-35a974253/</h3>
+
+<h3 align="left">📢 Puedes contactarme:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexander-ballen-35a974253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-ballen-35a974253/" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://github.com/alexballen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-ballen-35a974253/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
