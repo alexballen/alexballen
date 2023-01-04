@@ -5,3 +5,8 @@ Siempre me gusto el desarrollo web y di mis primeros pasos con WordPress, querí
 📢 Puedes contactarme:
 Email: alexballen53@gmail.com
 Linkedin: https://www.linkedin.com/in/alexander-ballen-35a974253/
+
+Tecnologias:
+
+
+
